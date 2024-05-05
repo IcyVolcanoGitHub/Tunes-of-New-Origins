@@ -6,4 +6,4 @@ Experience the radical Tunes of New Origins. Adds new music in the _Overworld_, 
 ### <center></center>
 ### <center>Click below to go to the Modpack</center>
 
-[![New Origins](https://cdn.modrinth.com/data/cached_images/93dfa22eda785ee834f3edccf2a3bac20153dfb4.png)](https://modrinth.com/modpack/new-origins)
+[![New Origins](https://cdn.modrinth.com/data/cached_images/93dfa22eda785ee834f3edccf2a3bac20153dfb4.png)]([https://github.com/IcyVolcanoGitHub/New-Origins])
